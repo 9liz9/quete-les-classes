@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/bin/Debug/net7.0/S03-classes
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/bin/Debug/net7.0/S03-classes.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/bin/Debug/net7.0/S03-classes.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/bin/Debug/net7.0/S03-classes.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/bin/Debug/net7.0/S03-classes.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/refint/S03-classes.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/S03-classes.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-classes/obj/Debug/net7.0/ref/S03-classes.dll
